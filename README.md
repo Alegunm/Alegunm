@@ -6,7 +6,8 @@
 - 📫 如何联系我 **13031119683@163.com   微信：yitonggao02**
 
 
-<h3 align=“left”>语言和工具：</h3>
-<h3 align=“left”>编程语言与框架：C、Python；PyTorch框架           硬件：STM32、51单片机；Keil、AutoCAD
-系统：ROS、Linux                              仿真平台：MATLAB(Simulink)、MuJoCo
-算法：PID 、LQR控制算法、A*算法、DQN等RL算法、RNN、CNN、transformer等DL原理 </h3>
+<h3 align=“left”>编程语言与框架：C、Python；PyTorch框架 </h3>
+<h3 align=“left”> 硬件：STM32、51单片机；Keil、AutoCAD </h3>
+<h3 align=“left”> 系统：ROS、Linux </h3>                            
+<h3 align=“left”> 仿真平台：MATLAB(Simulink)、MuJoCo </h3>
+<h3 align=“left”> 算法：PID 、LQR控制算法、A*算法、DQN等RL算法、RNN、CNN、transformer等DL原理 </h3>
